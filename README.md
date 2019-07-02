@@ -1,2 +1,2 @@
-# savethemap.in
-Response to the Geospatial Information Bill, 2016
+# saveeducation.in
+Response to the Draft New Education Policy, 2019
